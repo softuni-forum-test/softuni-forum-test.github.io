@@ -1,0 +1,6 @@
+- Project configuration with JSDOC and static typechecking
+- Baas setup - user profiles, collections, access rights
+- Deployment to GitHub Pages
+- Middleware pattern for dependancy injection
+- Admin role
+- Basic HTML && CSS    
